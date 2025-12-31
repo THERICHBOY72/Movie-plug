@@ -1,0 +1,10 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/page": "app/page.js",
+  "/tvshows/page": "app/tvshows/page.js",
+  "/signup/page": "app/signup/page.js",
+  "/movies/page": "app/movies/page.js",
+  "/series/page": "app/series/page.js",
+  "/admin/page": "app/admin/page.js",
+  "/admin/login/page": "app/admin/login/page.js"
+}
